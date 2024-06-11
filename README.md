@@ -7,4 +7,8 @@ https://www.mediafire.com/file/mgze6t8j6k87uxp/WellWebView_v1.4.1.unitypackage/f
 https://www.mediafire.com/file/zbej5khpfgr9y6j/Figma_Converter_for_Unity_v3.1.8.zip/file
 
 https://www.mediafire.com/file/dvy66xdql77rkph/Vuplex_-_Plugins.zip/file
-
+https://www.mediafire.com/file/bb6ebzqffbmrrim/Embedded_Browser_v3.1.0.unitypackage/file
+https://www.mediafire.com/file/dyvo0hvj9ve8md4/Embedded_Browser_v1.1.0.unitypackage/file
+https://www.mediafire.com/file/6igbpf40j3zuf9t/UniWebView_4_v4.12.0.unitypackage/file
+https://www.mediafire.com/file/dvy66xdql77rkph/Vuplex_-_Plugins.zip/file
+https://www.mediafire.com/file/mgze6t8j6k87uxp/WellWebView_v1.4.1.unitypackage/file
